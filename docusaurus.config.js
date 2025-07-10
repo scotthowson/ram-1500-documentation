@@ -116,27 +116,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Getting Started',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Guides',
-                to: '/docs/guides/getting-started',
-              },
-              {
-                label: 'References',
-                to: '/docs/references/shortcuts',
-              },
-              {
-                label: 'Projects',
-                to: '/docs/projects/resin-printer-tools',
-              },
-            ],
-          },
-          {
             title: 'More',
             items: [
               {
