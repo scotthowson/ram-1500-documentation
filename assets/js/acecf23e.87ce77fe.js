@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkram_1500_build=self.webpackChunkram_1500_build||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/ram-1500-documentation/blog","blogTitle":"Blog","authorsListPath":"/ram-1500-documentation/blog/authors"}')}}]);

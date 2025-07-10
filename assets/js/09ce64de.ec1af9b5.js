@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkram_1500_build=self.webpackChunkram_1500_build||[]).push([[5497],{8268:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/ram-1500-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
